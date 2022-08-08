@@ -16,6 +16,7 @@ console.log(price1);
 price1 -=5;
 console.log(price1);
 
+// ++ means adding 1 to the existing value
 var age = 20;
 age++;
 console.log(age);

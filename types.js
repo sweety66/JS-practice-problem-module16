@@ -13,6 +13,6 @@ sum = parseFloat(sum);
 var mangoes = 10;
 var person = 7;
 var vagfol = mangoes + person;
-var vagfol = vagfol.toFixed(3);
+var v = vagfol.toFixed(3);
 //vagfol = parseInt(vagfol);
 console.log(vagfol);
